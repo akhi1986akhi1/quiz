@@ -1,0 +1,338 @@
+{
+  "questions": [
+    {
+      "questionText": "1. Which are the types of tables in data processing?",
+      "options": [
+        {
+          "text": "Simple table"
+        },
+        {
+          "text": "Complex/ crosstable"
+        },
+        {
+          "text": "Only B"
+        },
+        {
+          "text": "Both a and b",
+          "correct": true
+        }
+      ]
+    },
+    {
+        "questionText": "2. Following are parts in the tabulation of data",
+        "options": [
+          {
+            "text": "Title of the table"
+          },
+          {
+            "text": "Subheadings, arrangement of items in rows and columns"
+          },
+          {
+            "text": "Size and demarcation of columns"
+          },
+          {
+            "text": "Footnotes"
+          },
+          {
+            "text": " All the above",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "3. After the data has been processed and analysed, the research process requires:?",
+        "options": [
+          {
+            "text": "Interpretation of data",
+            "correct": true
+          },
+          {
+            "text": "Presentation of data"
+          },
+          {
+            "text": "Reporting of data"
+          },
+          {
+            "text": "Testing of data"
+            
+          }
+        ]
+      },
+      {
+        "questionText": "4. Under descriptive analysis statistical tools used are:?",
+        "options": [
+          {
+            "text": "Calculus"
+            
+          },
+          {
+            "text": "Percentage"
+          },
+          {
+            "text": "Mean"
+          },
+          {
+            "text": "Only and a and b"
+            
+          },
+          {
+            "text": "Only b and c",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "5. Highlight the statistical tools that are available to a researcher in the research process:",
+        "options": [
+          {
+            "text": "Measure central tendency"
+            
+          },
+          {
+            "text": "Measure of dispersion"
+          },
+          {
+            "text": "Measure of asymmetry"
+          },
+          {
+            "text": "Measure of relationship"
+            
+          },
+          {
+            "text": "All the above",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "6. Data processing involves the following steps:",
+        "options": [
+          {
+            "text": "Editing"
+            
+          },
+          {
+            "text": "Coding"
+          },
+          {
+            "text": "Classification"
+          },
+          {
+            "text": "Tabulation"
+            
+          },
+          {
+            "text": "All the above",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "7. In a bar diagram each bar indicates the value of the variable",
+        "options": [
+          {
+            "text": "True",
+            "correct": true
+          },
+          {
+            "text": "False"
+          }
+        ]
+      },
+      {
+        "questionText": "8. Through data interpretation one understands what the given research findings really mean and what is the underlying generalization which is manifested thought the data collected.",
+        "options": [
+          {
+            "text": "True",
+            "correct": true
+          },
+          {
+            "text": "False"
+          }
+        ]
+      },
+      {
+        "questionText": "9. In a complex table there is one variant only.",
+        "options": [
+          {
+            "text": "True",
+            "correct": true
+          },
+          {
+            "text": "False"
+          }
+        ]
+      },
+      {
+        "questionText": "10. In a complex table there is one variant only.",
+        "options": [
+          {
+            "text": "True",
+            "correct": true
+          },
+          {
+            "text": "False"
+          }
+        ]
+      },
+      {
+        "questionText": "11. What is one dimensional analysis?",
+        "options": [
+          {
+            "text": "Descriptive analysis with one variable",
+            "correct": true
+          },
+          {
+            "text": "Descriptive analysis with only one-sided approach"
+          }
+        ]
+      },
+      {
+        "questionText": "12. The researcher should keep a clear set of_________________ formulated at the very start of the research which will lead to clearer actions and better data collection as well as analysis:",
+        "options": [
+          {
+            "text": "Hypothesis",
+            "correct": true
+          },
+          {
+            "text": "Research design"
+          },
+          {
+            "text":"Limitations"
+          }
+        ]
+      },
+      {
+        "questionText": "13. A hypothesis which is tested for possible rejection is known as:",
+        "options": [
+          {
+            "text": "Positive hypotheses"
+          },
+          {
+            "text": "Absolute hypotheses"
+          },
+          {
+            "text":"Null hypotheses",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "14. Which of the following are the diagrammatic representations in research:",
+        "options": [
+          {
+            "text": "Graph"
+          },
+          {
+            "text": "Bar diagram"
+          },
+          {
+            "text":"Pie chart"
+            
+          },
+          {
+            "text": "All the above",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "15. In a graph the following variables are scaled on X and Y axis:",
+        "options": [
+          {
+            "text": "The dependent variables on X and the independent variable on Y."
+          },
+          {
+            "text": " The independent variables are scaled on X axis and dependent one on Y axis.",
+            "correct": true
+          }
+        
+        ]
+      },
+      {
+        "questionText": "16. Bar diagrams can be drawn::",
+        "options": [
+          {
+            "text": "Either vertically"
+          },
+          {
+            "text": "Horizontally"
+           
+          },
+          {
+            "text":"Both vertically and horizontally",
+            "correct": true
+          }
+        
+        ]
+      },
+      {
+        "questionText": "17. One of the primary advantages of statistics is:",
+        "options": [
+          {
+            "text": "Reducing large data to manageable size"
+          },
+          {
+            "text": "Explains the larger picture",
+            "correct": true
+          }
+        
+        ]
+      },
+      {
+        "questionText": "18. Which chart is presented in the form of a circle with each category occupying a segment that is proportional according to the size of its data:",
+        "options": [
+          {
+            "text": "Bar diagram"
+          },
+          {
+            "text": "Pie chart",
+            "correct": true
+          },
+          {
+            "text":"Graph"
+          }
+        
+        ]
+      },
+      {
+        "questionText": "19. The measure of central tendency indicates:",
+        "options": [
+          {
+            "text": "Measure of asymmetry"
+          },
+          {
+            "text": "Measure of average",
+            "correct": true
+          },
+          {
+            "text":"Measure of variables"
+          },
+          {
+            "text":"None of the above"
+          }
+        
+        ]
+      },
+      {
+        "questionText": "20. The method of standard deviation is used in:",
+        "options": [
+          {
+            "text": "Measure of relationship"
+          },
+          {
+            "text": "Measure of asymmetry",
+            "correct": true
+          },
+          {
+            "text":"Measure of dispersion"
+          },
+          {
+            "text":"All the above"
+          }
+        
+        ]
+      }
+      
+]
+}

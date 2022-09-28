@@ -1,0 +1,189 @@
+
+{
+  "questions": [
+    {
+      "questionText": "1.The length of the synopsis may vary-",
+      "options": [
+        {
+          "text": "Depending on the requirement of individual institutional guidelines"
+          
+        },
+        {
+          "text": "As per the Standard trend"
+         
+        },
+        {
+          "text": "As per the instructions of the supervisor"
+        },
+        {
+          "text": "All of the above",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "2.Title of a thesis must be the same as-",
+      "options": [
+        {
+          "text": "The title of your synopsis",
+          "correct": true
+        },
+        {
+          "text": "Any of previous work in the same field"
+        },
+        {
+          "text": "Any of the previous work in another field"
+        },
+        {
+          "text": "None of these"
+        }
+      ]
+    },
+    {
+      "questionText": "3.The synopsis should cover-",
+      "options": [
+        {
+          "text": "Introduction"
+        },
+        {
+          "text": "Literature"
+          
+        },
+        {
+          "text": "Methodology"
+        },
+        {
+          "text": "All of the above",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "4.A least important part of the synopsis-",
+      "options": [
+        {
+          "text": "Literature review"
+        },
+        {
+          "text": "Introduction",
+          "correct": true
+          
+        },
+        {
+          "text": "Aims and objective"
+        },
+        {
+          "text": "The rationale of the study"
+        }
+      ]
+    },
+    {
+      "questionText": "5.A thesis should have elaborated-",
+      "options": [
+        {
+          "text": "Introduction"
+        },
+        {
+          "text": "Results and discussions"
+        },
+        {
+          "text": "References"
+        },
+        {
+          "text": "All of these",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "6.What can be the best source of literature survey-",
+      "options": [
+        {
+          "text": "SCI-indexed Journals",
+          "correct": true
+        },
+        {
+          "text": "Newspapers"
+        },
+        {
+          "text": "Websites"
+        },
+        {
+          "text": "Old thesis"
+        }
+      ]
+    },
+    {
+      "questionText": "7.The detailed methodology should be written in thesis –",
+      "options": [
+        {
+          "text": "Sometimes"
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "questionText": "8. Results of the study can be presented in the form of-",
+      "options": [
+        {
+          "text": "Tabular form"
+        },
+        {
+          "text": "Graphical form"
+        },
+        {
+          "text": "Both 1 and 2",
+          "correct": true
+        }
+       
+      ]
+    },
+    {
+      "questionText": "9.Discussions should be supported by –",
+      "options": [
+        {
+          "text": " Previous study"
+        },
+        {
+          "text": "Supporting and contradictory references"
+        },
+        {
+          "text": "Both 1 and 2",
+          "correct": true
+        },
+        {
+          "text": " None of these"
+        }
+        
+      ]
+    },
+    {
+      "questionText": "10.Which of the following statement is not true-",
+      "options": [
+        {
+          "text": "Results and discussions follow materials and methods"
+        },
+        {
+          "text": "Both results and discussions can be written separately"
+        },
+        {
+          "text": "References should be the latest one, preferably"
+        },
+        {
+          "text": " You can criticize any previous study if it contrasts yours",
+          "correct": true
+        }
+        
+      ]
+    }
+  ]
+}

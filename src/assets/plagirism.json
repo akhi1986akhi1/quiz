@@ -1,0 +1,603 @@
+{
+    "questions": [
+      {
+        "questionText": "1. The act of presenting someone else’s work or idea as own is considered as",
+        "options": [
+          {
+            "text": "Plagiarism"
+            
+          },
+          {
+            "text": "Academic dishonesty"
+          },
+          {
+            "text": "Wrongful appropriation"
+          },
+          {
+            "text": "All of these",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "2. Do you think anti Plagiarism detection software is useable for",
+        "options": [
+          {
+            "text": "Avoiding plagiarism"
+          },
+          {
+            "text": "Getting comparison or similarity index to check the originality of the assignment",
+            "correct": true
+          },
+          {
+            "text": "Added Features like instant feedback to help improve writing"
+            
+          },
+          {
+            "text": "Do not find useful for any of these?"
+          }
+        ]
+      },
+      {
+        "questionText": "3. Which of the following plagiarism software is available under open access?",
+        "options": [
+          {
+            "text": "Turnitin"
+          },
+          {
+            "text": "Urkund"
+            
+          },
+          {
+            "text": "Viper",
+            "correct": true
+          },
+          {
+            "text": "All of theseInvalid"
+          }
+        ]
+      },
+      {
+        "questionText": "4. Which of the following software is a paid software for checking the similarity index in a research paper?",
+        "options": [
+          {
+            "text": "Viper"
+          },
+          {
+            "text": "PlagTrack"
+          },
+          {
+            "text": "Urkund",
+            "correct": true
+          },
+          {
+            "text": "Copyleaks"
+            
+          }
+        ]
+      },
+      {
+        "questionText": "5. Plagiarism where the writer changes a few words in the original text of another is known as",
+        "options": [
+          {
+            "text": "Direct copying"
+          },
+          {
+            "text": "Word switch",
+            "correct": true
+          },
+          {
+            "text": "Paraphrasing"
+            
+          },
+          {
+            "text": "None of these"
+          }
+        ]
+      },
+      {
+        "questionText": "6. The Latin word which is understood as the origin of the word ‘plagiarism’ is",
+        "options": [
+          {
+            "text": "Plagiarius",
+            "correct": true
+          },
+          {
+            "text": "Plagiurius"
+            
+          },
+          {
+            "text": "Plugiarius"
+          },
+          {
+            "text": "Plagiarize"
+          }
+        ]
+      },
+      {
+        "questionText": "7. What meaning of Plagiarius was quoted by Martial, a Roman poet, for using the term plagiarius by other users without quoting his name?",
+        "options": [
+          {
+            "text": "Literary kidnappers",
+            "correct": true
+          },
+          {
+            "text": "Literary thieves"
+          },
+          {
+            "text": "Literary copiers"
+            
+          },
+          {
+            "text": "Literary stealers"
+          }
+        ]
+      },
+      {
+        "questionText": "8. Referred documents must be cited as",
+        "options": [
+          {
+            "text": "Endnote",
+            "correct": true
+          },
+          {
+            "text": "Footnote"
+          },
+          {
+            "text": "Bibliographies"
+          },
+          {
+            "text": "All of these"
+          }
+        ]
+      },
+      {
+        "questionText": "9. Can multiple submissions of work be treated as plagiarism?",
+        "options": [
+          {
+            "text": "Yes",
+            "correct": true
+          },
+          {
+            "text": "No"
+          },
+          {
+            "text": "Maybe"
+            
+          },
+          {
+            "text": "Can’t Say"
+          }
+        ]
+      },
+      {
+        "questionText": "10. There has been a steep rise in plagiarism due to",
+        "options": [
+          {
+            "text": "Increase in publication growth"
+          },
+          {
+            "text": "Increase in enrollment for research work"
+          },
+          {
+            "text": "Availability of digital documents",
+            "correct": true
+          },
+          {
+            "text": "Used of computers in research"
+          }
+        ]
+      },
+      {
+        "questionText": "11. Which plagiarism software among the following is a commercial software",
+        "options": [
+          {
+            "text": "Viper"
+          },
+          {
+            "text": "PlagTrack"
+          },
+          {
+            "text": "Turnitin",
+            "correct": true
+          },
+          {
+            "text": "Copyleaks"
+          }
+        ]
+      },
+      {
+        "questionText": "12. Which of the following acts constitute plagiarism?",
+        "options": [
+          {
+            "text": "Presenting other’s work as own"
+          },
+          {
+            "text": "Paraphrasing without citation"
+          },
+          {
+            "text": "Quoting other’s work without quotation marks"
+            
+          },
+          {
+            "text": "All of these",
+            "correct": true
+          }
+          
+        ]
+      },
+      {
+        "questionText": "13. A ____________ is placed within the text and includes the authors’ last names and the publication year. A ___________ is placed at the end of a paper and includes information on the authors, year, the title of the source, and publication data to prevent plagiarism and give proper citation to work referred.",
+        "options": [
+          {
+            "text": "Quotation; citation"
+          },
+          {
+            "text": "Reference list; quotation"
+          },
+          {
+            "text": "Citation; reference list",
+            "correct": true
+          },
+          {
+            "text": "reference list; citation"
+          }
+        ]
+      },
+      {
+        "questionText": "14. What are the common forms of plagiarism?",
+        "options": [
+          {
+            "text": "Direct copying"
+          },
+          {
+            "text": "Word switch",
+            "correct": true
+          },
+          {
+            "text": "Self-plagiarism"
+            
+          },
+          {
+            "text": "All of these"
+          }
+        ]
+      },
+      {
+        "questionText": "15. What are the common reasons for plagiarism in student assignments?",
+        "options": [
+          {
+            "text": "Academic Pressure"
+          },
+          {
+            "text": "Poor Writing Skills"
+            
+          },
+          {
+            "text": "Ignorance about citation form and style"
+            
+          },
+          {
+            "text": "All of these",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "16. What is the important point to be considered while paraphrasing?",
+        "options": [
+          {
+            "text": "Citation"
+            
+          },
+          {
+            "text": "Writing in own words"
+            
+          },
+          {
+            "text": "Using quotes"
+            
+          },
+          {
+            "text": "All of these",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "17. What are the different ways to avoid plagiarism in academic writing?",
+        "options": [
+          {
+            "text": "Providing references"
+  
+          },
+          {
+            "text": "Citing the original author"
+            
+          },
+          {
+            "text": "Quoting the exact phrase"
+            
+          },
+          {
+            "text": "All of these",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "18. What should be the appropriate penalty if a student is found guilty of plagiarism?",
+        "options": [
+          {
+            "text": "Warning of deduction in marks",
+            "correct": true
+          },
+          {
+            "text": "Permanent or time-bound rustication"
+            
+          },
+          {
+            "text": "Failure to Withdrawal from Degree"
+            
+          },
+          {
+            "text": "None of these"
+            
+          }
+        ]
+      },
+      {
+        "questionText": "19. What should be the appropriate penalty if an academic professional is found guilty of plagiarism?",
+        "options": [
+          {
+            "text": "Verbal or written warning"
+            
+  
+          },
+          {
+            "text": "Disqualified to receive any kind of grant"
+            
+          },
+          {
+            "text": "Suspension or expulsion from service",
+            "correct": true
+            
+          },
+          {
+            "text": "None of these"
+            
+          }
+        ]
+      },
+      {
+        "questionText": "20. Plagiarism detection software checks plagiarism by providing",
+        "options": [
+          {
+            "text": "Similarity index",
+            "correct": true
+  
+          },
+          {
+            "text": "Citation index"
+            
+          },
+          {
+            "text": "Content index"
+            
+          },
+          {
+            "text": "None of these"
+            
+          }
+        ]
+      },
+      {
+        "questionText": "21. Plagiarism can lead to",
+        "options": [
+          {
+            "text": "Retraction of your published paper"
+            
+  
+          },
+          {
+            "text": "Suspension/termination from a job"
+            
+          },
+          {
+            "text": "Rejection of thesis"
+            
+          },
+          {
+            "text": "All of the above",
+            "correct": true
+            
+          }
+        ]
+      },
+      {
+        "questionText": "22. You can use direct quotes",
+        "options": [
+          {
+            "text": "Up to one page"
+            
+  
+          },
+          {
+            "text": "Up to one para"
+            
+          },
+          {
+            "text": "Up to three lines",
+            "correct": true
+            
+          },
+          {
+            "text": "Up to one line"
+            
+            
+          }
+        ]
+      },
+      {
+        "questionText": "23. Plagiarism can NOT be detected by",
+        "options": [
+          {
+            "text": "Scopus",
+            "correct": true
+  
+          },
+          {
+            "text": "Turnitin"
+          },
+          {
+            "text": "Ithenticate"
+          },
+          {
+            "text": "b & c both"
+          }
+        ]
+      },
+      {
+        "questionText": "24. Plagiarism is ",
+        "options": [
+          {
+            "text": "Submitting some other’s work as of your own"
+  
+          },
+          {
+            "text": "Submitting your own previously published work again"
+          },
+          {
+            "text": "a & b both",
+            "correct": true
+          },
+          {
+            "text": "quoting with citation"
+          }
+        ]
+      },
+      {
+        "questionText": "25. Which of the following requires proper citation?",
+        "options": [
+          {
+            "text": "When you refer to some previously published studies"
+  
+          },
+          {
+            "text": "When you refer to your own papers that you have previously written."
+          },
+          {
+            "text": "a & b both",
+            "correct": true
+          },
+          {
+            "text": "When you write your own ideas."
+          }
+        ]
+      },
+      {
+        "questionText": "26. It is NOT a tool for paraphrasing",
+        "options": [
+          {
+            "text": "Modify the order & structure of sentences"
+  
+          },
+          {
+            "text": "Direct quotation",
+            "correct": true
+          },
+          {
+            "text": "Use synonyms & different forms of words"
+            
+          },
+          {
+            "text": "Change the voice or perspective"
+          }
+        ]
+      },
+      {
+        "questionText": "27. Using different forms of words (adjective to noun or noun to verb) is one of the tools of",
+        "options": [
+          {
+            "text": "Paraphrasing",
+            "correct": true
+  
+          },
+          {
+            "text": "Summarizing"
+            
+          },
+          {
+            "text": "Referencing"
+            
+          },
+          {
+            "text": "All of the above"
+          }
+        ]
+      },
+      {
+        "questionText": "28. Plagiarism can be avoided by the use of",
+        "options": [
+          {
+            "text": "Direct Quotation"
+            
+  
+          },
+          {
+            "text": "Paraphrasing"
+            
+          },
+          {
+            "text": "Summarizing"
+            
+          },
+          {
+            "text": "All of the above",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "29. Plagiarism is",
+        "options": [
+          {
+            "text": "OK sometimes"
+          },
+          {
+            "text": "Always wrong because it is theft and fraud",
+            "correct": true
+          },
+          {
+            "text": "Not at all wrong"
+            
+          },
+          {
+            "text": "a & c both"
+            
+          } 
+        ]
+      },
+      {
+        "questionText": "30. Summarizing is",
+        "options": [
+          {
+            "text": "Presenting in your own words"
+          },
+          {
+            "text": "Reducing the source text to its main points"
+            
+          },
+          {
+            "text": "a & b both"
+            
+          },
+          {
+            "text": "a & c both",
+            "correct": true
+          } 
+        ]
+      }
+  
+  
+  ]}

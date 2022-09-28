@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "questionText": "1.Sample is a representative unit of the population. Is this statement true or false? ",
+      "options": [
+        {
+          "text": "True ",
+          "correct": true
+        },
+        {
+          "text": "False "
+        }
+      ]
+    },
+    {
+      "questionText": "2.In ______________________ every unit falling after a chosen gap of units is included in the sample. ",
+      "options": [
+        {
+          "text": "Interval sampling",
+          "correct": true
+        },
+        {
+          "text": "Simple random sampling"
+        },
+        {
+          "text": "Purposive sampling"
+        },
+        {
+          "text": "Cluster sampling"
+        }
+      ]
+    },
+    {
+      "questionText": "3.Division of the entire population into different groups and then selection of sample on the basis of proportion of each group in the entire population is called as ___________________. ",
+      "options": [
+        {
+          "text": "Stratified sampling"
+        },
+        {
+          "text": "Sequential sampling"
+        },
+        {
+          "text": "Cluster sampling"
+        },
+        {
+          "text": "Quota sampling ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "4.For the study of any population, sampling is conducted because it is __________________. ",
+      "options": [
+        {
+          "text": "Expensive"
+        },
+        {
+          "text": "Difficult "
+        },
+        {
+          "text": "time-efficient",
+          "correct": true
+        },
+        {
+          "text": "Biased "
+        }
+      ]
+    },
+    {
+      "questionText": "5.A researcher divides a heterogeneous population into homogeneous groups, and then draws samples from each group. Which sampling technique is the researcher using? ",
+      "options": [
+        {
+          "text": "Cluster sampling "
+        },
+        {
+          "text": "Stratified sampling ",
+          "correct": true
+        },
+        {
+          "text": "Non-probability sampling "
+        },
+        {
+          "text": "Quota sampling "
+        }
+      ]
+    },
+    {
+      "questionText": "6.What is a sample called if it represents one or few characteristics of the population more than the others? ",
+      "options": [
+        {
+          "text": "Good sample",
+          "correct": true
+        },
+        {
+          "text": "Bad sample "
+        },
+        {
+          "text": "Biased sample"
+        },
+        {
+          "text": "Ineffective sample "
+        }
+      ]
+    },
+    {
+      "questionText": "7.What are the various classifications of sampling?",
+      "options": [
+        {
+          "text": "Random and purposive"
+        },
+        {
+          "text": "Stratified and cluster"
+        },
+        {
+          "text": "Probability and non-probability ",
+          "correct": true
+        },
+        {
+          "text": "Multi-stage and sequential"
+        }
+      ]
+    },
+    {
+      "questionText": "8.Simple random sampling cannot be used in ___________________.",
+      "options": [
+        {
+          "text": "Large population"
+        },
+        {
+          "text": "Homogeneous population"
+        },
+        {
+          "text": "Heterogeneous population",
+          "correct": true
+        },
+        {
+          "text": "Legal research"
+        }
+      ]
+    },
+    {
+      "questionText": "9.In ____________________, all the units of the universe have an equal chance of being included in the sample. ",
+      "options": [
+        {
+          "text": "Non-probability sampling "
+        },
+        {
+          "text": "Probability sampling ",
+          "correct": true
+        },
+        {
+          "text": "Judgment sampling "
+        },
+        {
+          "text": "Interval sampling"
+        }
+      ]
+    },
+    {
+      "questionText": "10.What is Tippet’s Table used for? ",
+      "options": [
+        {
+          "text": "Convenience sampling "
+        },
+        {
+          "text": "To reduce sampling errors "
+        },
+        {
+          "text": "Interval sampling"
+        },
+        {
+          "text": "Simple random sampling",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "11. Research can never be without any non-sampling errors, but sampling errors can always be avoided. Is the above statement true or false ?",
+      "options": [
+        {
+          "text": "True"
+        },
+        {
+          "text": "False",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "12. Why are sampling traits important in sampling?",
+      "options": [
+        {
+          "text": "They help us in deciding the sample size."
+        },
+        {
+          "text": "They help us to differentiate between useless units and useful units."
+        },
+        {
+          "text": "They form the basis of the research questions."
+        },
+        {
+          "text": "They are the deciding factor in the inclusion of a unit in the sample.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "13. Characteristics to be studied and the size of the population have no effect on selecting a sampling technique. Is this statement true or false?",
+      "options": [
+        {
+          "text": "True"
+        },
+        {
+          "text": "False",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "14. Sampling can only be effectively conducted in a homogeneous population which is finite and not in an infinite universe with heterogeneous population.Is the above statement True or False?",
+      "options": [
+        {
+          "text": "True"
+        },
+        {
+          "text": "False",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "15. There are least chances of sampling error in a heterogeneous population. Is this statement true or false?",
+      "options": [
+        {
+          "text": "True"
+        },
+        {
+          "text": "False",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "16. Studying a sample is a cost-effective method of studying a population. Is this statement true or false?",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "questionText": "17. It is not necessary for a sample to show the same characteristics as the population. Is this statement true or false?",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "questionText": "18. Selection of a sampling unit from a population should be dependent upon the inclusion of another sampling unit. Is this statement true or false",
+      "options": [
+        {
+          "text": "True"
+        },
+        {
+          "text": "False",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "19. Population is called as ___________ where the members are identical to one another.",
+      "options": [
+        {
+          "text": "Universe"
+        },
+        {
+          "text": "Heterogeneous population"
+        },
+        {
+          "text": "Homogeneous population",
+          "correct": true
+        },
+        {
+          "text": "Finite universe"
+        }
+      ]
+    }
+  ]
+}

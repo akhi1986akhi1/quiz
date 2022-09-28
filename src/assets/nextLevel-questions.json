@@ -1,0 +1,191 @@
+{
+  "questions": [
+    {
+      "questionText": "1.Information sources can be organized by:",
+      "options": [
+        {
+          "text": "Content"
+          
+        },
+        {
+          "text": "Type"
+        },
+        {
+          "text": "Media"
+        },
+        {
+          "text": "All",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "2.Primary sources are those which are",
+      "options": [
+        {
+          "text": "Published"
+        },
+        {
+          "text": "Reported"
+        },
+        {
+          "text": "Recorded"
+        },
+        {
+          "text": "All",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "3.Primary Periodicals are published by",
+      "options": [
+        {
+          "text": "Learned Societies"
+        },
+        {
+          "text": "Government Organisations"
+          
+        },
+        {
+          "text": "Commercial publishers"
+        },
+        {
+          "text": "All",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "4.Primary periodicals could be based on",
+      "options": [
+        {
+          "text": "Broader subject domain"
+        },
+        {
+          "text": "Specific subject domain"
+          
+        },
+        {
+          "text": "Both",
+          "correct": true
+        },
+        {
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "questionText": "5.A newspaper correspondent collecting, collating, and writing a story of a current event is a",
+      "options": [
+        {
+          "text": "Primary Information",
+          "correct": true
+        },
+        {
+          "text": "Secondary Information"
+        },
+        {
+          "text": "Tertiary Information"
+        },
+        {
+          "text": "None of the above"
+        }
+      ]
+    },
+    {
+      "questionText": "6.A researcher of biochemistry describing her/his research findings at an international conference",
+      "options": [
+        {
+          "text": "Secondary Information"
+        },
+        {
+          
+          "text": "Primary Information",
+          "correct": true
+        },
+        {
+          "text": "Tertiary Information"
+        },
+        {
+          "text": "None of the above"
+        }
+      ]
+    },
+    {
+      "questionText": "7.All specifications relating to a hockey ground can be found in",
+      "options": [
+        {
+          "text": "Conference papers"
+        },
+        {
+          "text": "newspapers"
+        },
+        {
+          "text": "Technical reports",
+          "correct": true
+        },
+        {
+          "text": "Journals"
+        }
+      ]
+    },
+    {
+      "questionText": "8.Research findings of a researcher first published in her/his",
+      "options": [
+        {
+          "text": "Primary Journals"
+        },
+        {
+          "text": "Thesis",
+          "correct": true
+        },
+        {
+          "text": "Newspaper"
+        },
+        {
+          "text": "Reports"
+        }
+      ]
+    },
+    {
+      "questionText": "9.Mass media include",
+      "options": [
+        {
+          "text": "Newspapers"
+        },
+        {
+          "text": "Magazines"
+        },
+        {
+          "text": "Magazines"
+        },
+        {
+          "text": "All of the above",
+          "correct": true
+        }
+        
+      ]
+    },
+    {
+      "questionText": "10.If you want to spread the message of your library in the rural sector, which mass media will you prefer most",
+      "options": [
+        {
+          "text": "Newspaper"
+        },
+        {
+          "text": "Magazines"
+        },
+        {
+          "text": "Books"
+        },
+        {
+          "text": "Radio and television",
+          "correct": true
+        }
+        
+      ]
+    }
+    
+  ]
+}

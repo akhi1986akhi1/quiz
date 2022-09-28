@@ -1,0 +1,387 @@
+{
+    "questions": [
+      {
+        "questionText": "1. Library is used for data collection in______________",
+        "options": [
+          {
+            "text": "Doctrinal method"
+          },
+          {
+            "text": " Non-doctrinal method",
+            "correct": true
+          },
+          {
+            "text": "Empirical research method"
+        
+          },
+          {
+            "text": "None of them"
+          }
+        ]
+      },
+      
+      
+      {
+        "questionText": "2.  A process of collecting quantity of facts in systematic and organized manner to report any social problem or status of facts in certain area of society  is known as-",
+        "options": [
+          {
+            "text": "Case study"
+          },
+          {
+            "text": "Historical research"
+          },
+          {
+            "text": "Survey",
+            "correct": true
+          },
+          {
+            "text": "None of the above"
+          }
+        ]
+      },
+      {
+        "questionText": "3.  Any social behavior and attributes of man is measurable by – ",
+        "options": [
+          {
+            "text": "Scaling",
+            "correct": true
+          },
+          {
+            "text": "Survey"
+            
+          },
+          {
+            "text": "Case study"
+            
+          },
+          {
+            "text": "None of the above"
+            
+          }
+        ]
+      },
+      {
+        "questionText": "4.  The objective of Doctrinal-participative approach is to obtain knowledge by:",
+        "options": [
+          {
+            "text": " participation in any activity where a relevant information may obtain from verbal statements by the resource persons"
+            
+          },
+          {
+            "text": "participation in any activity where relevant information may obtain through presentations made by the resource persons"            
+          },
+          {
+            "text": "the printing or web material not allowed"            
+          },
+          {
+            "text": "All the above",
+            "correct": true            
+          }
+          
+        ]
+      },
+      {
+        "questionText": "5. The Technique includes :",
+        "options": [
+          {
+            "text": "A method of gathering data"          
+          },
+          {
+            "text": "Tools of the instrument used for gathering data"      
+          },
+          {
+            "text": " a and b both",
+            "correct": true            
+          },
+          {
+            "text": "None of the above "            
+          }
+          
+        ]
+      },
+      {
+        "questionText": "6.  A researcher may relate cause and effect relationship by :  ",
+        "options": [
+          {
+            "text": "Observation of facts",
+            "correct": true          
+          },
+          {
+            "text": "Collection of facts"      
+          },
+          {
+            "text": "Classification of facts"
+                        
+          },
+          {
+            "text": "Manipulation of facts"            
+          }
+          
+        ]
+      },
+      {
+        "questionText": "7.  P V  Young defines Observation as, “ a deliberate study through the______ may be used as one of the methods for scrutinizing collective behavior and complex social institutions as well as the separate units composing a totality",
+        "options": [
+          {
+            "text": "Ears"
+          },
+          {
+            "text": "Eyes",
+            "correct": true      
+          },
+          {
+            "text": "Credible source"             
+          },
+          {
+            "text": "a and b both"            
+          }   
+        ]
+      },
+      {
+        "questionText": "8.  An observation technique where the researcher himself actively remains associated with other members of the group and observes the behavior and activities of the group of study is known as:",
+        "options": [
+          {
+            "text": "Quasi participant observation "
+          },
+          {
+            "text": " Non participant observation"
+                  
+          },
+          {
+            "text": "Participant observation ",
+            "correct": true             
+          },
+          {
+            "text": "None of the above"            
+          }   
+        ]
+      },
+      {
+        "questionText": "9.  n Non participant observation technique, the researcher’s presence is:",
+        "options": [
+          {
+            "text": "Not necessary"
+          },
+          {
+            "text": "Necessary as active person"
+                  
+          },
+          {
+            "text": "Necessary as neutral person",
+            "correct": true             
+          },
+          {
+            "text": "Sometimes necessary"            
+          }   
+        ]
+      },
+      {
+        "questionText": "10.  A behaviour can be judged and attitude can be estimated by:",
+        "options": [
+          {
+            "text": "A blush on the face or laugh"
+          },
+          {
+            "text": " A visible happiness"
+                  
+          },
+          {
+            "text": "A visible anger"
+          },
+          {
+            "text": "All the above",
+            "correct": true            
+          }   
+        ]
+      },
+      {
+        "questionText": "11.  A questionnaire consists of:",
+        "options": [
+          {
+            "text": "Predetermined questions",
+            "correct": true
+          },
+          {
+            "text": "Uniform questions"
+                  
+          },
+          {
+            "text": "Identical questions"
+          },
+          {
+            "text": "Limited questions"
+                        
+          }   
+        ]
+      },
+      {
+        "questionText": "12.  Doctrinal studies can be performed by using either_______",
+        "options": [
+          {
+            "text": "Library technique",
+            "correct": true
+          },
+          {
+            "text": "Participation technique"
+                  
+          },
+          {
+            "text": "both a&b "
+          },
+          {
+            "text": "All above"
+          }   
+        ]
+      },
+      {
+        "questionText": "13.  Doctrinal studies can be performed by using either_______",
+        "options": [
+          {
+            "text": "Open ended questions",
+            "correct": true
+          },
+          {
+            "text": "NoOpen ended questions"
+                  
+          },
+          {
+            "text": " Partial Open ended questions"
+          },
+          {
+            "text": " Limited Open ended questions"
+          }   
+        ]
+      },
+      {
+        "questionText": "14.  Information may be obtained by______in participation technique",
+        "options": [
+          {
+            "text": "face to face"
+          },
+          {
+            "text": "video conferencing"
+                  
+          },
+          {
+            "text": "means of mass media"
+          },
+          {
+            "text": "All above",
+            "correct": true
+          }   
+        ]
+      },
+      {
+        "questionText": "15.  “In the strict sense observation implies the use of the eyes rather than of ear and the voice ” Stated by ________",
+        "options": [
+          {
+            "text": "C A Moser",
+            "correct": true
+          },
+          {
+            "text": "P V  Young"
+                  
+          },
+          {
+            "text": "Cook"
+          },
+          {
+            "text": "None of the above"
+          }   
+        ]
+      },
+      {
+        "questionText": "16.  Real facts can be observed in _________",
+        "options": [
+          {
+            "text": "control observation",
+            "correct": true
+          },
+          {
+            "text": "uncontrolled observation"
+                  
+          },
+          {
+            "text": "both a &"
+          },
+          {
+            "text": "None of the above"
+          }   
+        ]
+      },
+      {
+        "questionText": "17.  Interview includes _________",
+        "options": [
+          {
+            "text": " Face to face conversation"
+          },
+          {
+            "text": "Study of body language"
+          },
+          {
+            "text": "both a & b",
+            "correct": true
+                  
+          },
+          {
+            "text": "Only a"
+          }   
+        ]
+      },
+      {
+        "questionText": "18.  _____________is used as a tool in interviews",
+        "options": [
+          {
+            "text": "Schedule",
+            "correct": true
+          },
+          {
+            "text": "Questionnaire"
+          },
+          {
+            "text": "both a & b"
+          },
+          {
+            "text": "None of the above"
+          }   
+        ]
+      },
+      {
+        "questionText": "19.  Questionnaire technique may be a good for data collection only if,",
+        "options": [
+          {
+            "text": "Respondents are literate"
+          },
+          {
+            "text": "Respondents can read & understand the language of questionnaire"
+          },
+          {
+            "text": "both a & b",
+            "correct": true
+          },
+          {
+            "text": "None of the above"
+          }   
+        ]
+      },
+      {
+        "questionText": "20.  In depth study of any unit from the beginning to end is called -",
+        "options": [
+          {
+            "text": "Case study method",
+            "correct": true
+          },
+          {
+            "text": "Historical research"
+          },
+          {
+            "text": "Analytical method"
+          },
+          {
+            "text": "None of the above"
+          }   
+        ]
+      }
+      
+    ]
+  }

@@ -1,0 +1,91 @@
+{
+    "questions": [
+      {
+        "questionText": "1. A Null Hypothesis is",
+        "options": [
+          {
+            "text": "The assumption that a significant result is unlikely."
+            
+          },
+          {
+            "text": "The assumption there is a relationship or difference between the variables you are testing.",
+            "correct": true
+          },
+          {
+            "text": "The pattern between the variable you are testing."
+        
+          },
+          {
+            "text": "What is a Type-I error:"
+          }
+        ]
+      },
+      
+      
+      {
+        "questionText": "2. What is a Type-I error:",
+        "options": [
+          {
+            "text": "A type-I error is obtaining a non-significant result when it should be significant."
+          },
+          {
+            "text": "A type-I error is obtaining a non-significant result when it should be significant.",
+            "correct": true
+          },
+          {
+            "text": "A type-I error is obtaining a significant result by sampling error alone when the Null hypothesis is true."
+            
+          }
+        ]
+      },
+      {
+        "questionText": "3. Which of the statements below defines a Type-II error ",
+        "options": [
+          {
+            "text": "A Type-II error occurs when you accept a null hypothesis which is false.",
+            "correct": true
+          },
+          {
+            "text": "A Type-II error occurs when you fail to reject a false Null hypothesis."
+            
+          },
+          {
+            "text": "A Type-II error occurs when you reject a research hypothesis which is true."
+            
+          },
+          {
+            "text": "All the above."
+            
+          }
+        ]
+      },
+      {
+        "questionText": "4. One of the problems we face when conducting research is that when we select samples from populations, we might not get a sample that accurately reflects that population.",
+        "options": [
+          {
+            "text": "True",
+            "correct": true
+          },
+          {
+            "text": "False"            
+          }
+          
+        ]
+      },
+      {
+        "questionText": "5. Even if there is no real relationship between variables in the population, it is likely that you will find a relationship between variables in your randomly selected sample.",
+        "options": [
+          {
+            "text": "True"
+            
+          },
+          {
+            "text": "False",
+            "correct": true            
+          }
+          
+        ]
+      }
+      
+    ]
+  }

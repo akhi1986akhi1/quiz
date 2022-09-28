@@ -1,0 +1,384 @@
+{
+  "questions": [
+    {
+      "questionText": "1.The objective of citation style manuals is –",
+      "options": [
+        {
+          "text": " Attribution of other’s intellectual work",
+          "correct": true
+        },
+        {
+          "text": " Attribution of own intellectual work"
+        },
+        {
+          "text": " Attribution of corporate intellectual outcomes"
+        },
+        {
+          "text": " All of these"
+        }
+      ]
+    },
+    {
+      "questionText": "2.The citation manual published by Aspen Publisher which is known as alternative to other manuals useful for law subject is –",
+      "options": [
+        {
+          "text": "APA"
+        },
+        {
+          "text": "MLA"
+        },
+        {
+          "text": "ALWD",
+          "correct": true
+        },
+        {
+          "text": "Blue Book"
+        }
+      ]
+    },
+    {
+      "questionText": "3. Which citation style has been developed by University of Oxford and used in almost all universities in the United Kingdom?",
+      "options": [
+        {
+          "text": "OSCOLA"
+        },
+        {
+          "text": "Blue Book",
+          "correct": true
+        },
+        {
+          "text": "ALWD"
+        },
+        {
+          "text": "None of the above"
+        }
+      ]
+    },
+    {
+      "questionText": " 4. ‘International Standard Book Number (ISBN)’ is a ____________ digit unique numeric commercial machine-readable identification number meant for monograph publications.",
+      "options": [
+        {
+          "text": "Eight"
+        },
+        {
+          "text": "Ten"
+        },
+        {
+          "text": "Eleven"
+        },
+        {
+          "text": "Thirteen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "5. Who is responsible for assessing ISBN in India?",
+      "options": [
+        {
+          "text": "National Library, Kolkata"
+        },
+        {
+          "text": "Imperial Library, Kolkata"
+        },
+        {
+          "text": "Raja Ram Mohan Roy Foundation, Kolkata",
+          "correct": true
+        },
+        {
+          "text": "National Book Trust, New Delhi"
+        }
+      ]
+    },
+    {
+      "questionText": "6. 'International Standard Audio-visual Number' (ISAN) is another form of digital object identifier which is used to -",
+      "options": [
+        {
+          "text": "Knot text-visual works"
+        },
+        {
+          "text": "Knot audio-visual works",
+          "correct": true
+        },
+        {
+          "text": "Knot audio-text works"
+        },
+        {
+          "text": "Knot Video works"
+        }
+      ]
+    },
+    {
+      "questionText": "7. APA Style stands for - ",
+      "options": [
+        {
+          "text": "American Psychological Association"
+        },
+        {
+          "text": "Association of Psychological of Americans"
+        },
+        {
+          "text": "American Psychologist Association",
+          "correct": true
+        },
+        {
+          "text": "American Psychological Associates"
+        }
+      ]
+    },
+    {
+      "questionText": "8. Which citation style is famously used in science and medicinal research?",
+      "options": [
+        {
+          "text": "The Vancouver Referencing Style",
+          "correct": true
+        },
+        {
+          "text": "APA Style"
+        },
+        {
+          "text": "MLA Style"
+        },
+        {
+          "text": "Chicago Manual Style"
+        }
+      ]
+    },
+    {
+      "questionText": "9. Which color is used in the Blue Book of citation for instruction to first year law students?",
+      "options": [
+        {
+          "text": "Yellow"
+        },
+        {
+          "text": "Pink"
+        },
+        {
+          "text": "Blue",
+          "correct": true
+        },
+        {
+          "text": "White"
+        }
+      ]
+    },
+    {
+      "questionText": "10. What abbreviation is used to mention more than four authors of a research work to be cited?",
+      "options": [
+        {
+          "text": "at al."
+        },
+        {
+          "text": "et all."
+        },
+        {
+          "text": "et al",
+          "correct": true
+        },
+        {
+          "text": "ot all"
+        }
+      ]
+    },
+    {
+      "questionText": "11. Trace the latest edition of Blue Book of Legal Citation in use as in 2015.",
+      "options": [
+        {
+          "text": "18"
+        },
+        {
+          "text": "19"
+        },
+        {
+          "text": "20",
+          "correct": true
+        },
+        {
+          "text": "21"
+        }
+      ]
+    },
+    {
+      "questionText": "12. ISSN stands for -",
+      "options": [
+        {
+          "text": "International Standard Social Number"
+        },
+        {
+          "text": "International Source Serial Number"
+        },
+        {
+          "text": "International Standard Serial Number",
+          "correct": true
+        },
+        {
+          "text": "Indian Standard society Number"
+        }
+        
+      ]
+    },
+    {
+      "questionText": "13. Parenthetical Referencing is also known as -",
+      "options": [
+        {
+          "text": "Foot Note Referencing"
+        },
+        {
+          "text": "Endnote Referencing"
+        },
+        {
+          "text": "In Text Referencing",
+          "correct": true
+        },
+        {
+          "text": "Title Referencing"
+        }
+      ]
+    },
+    {
+      "questionText": "14. Citation of original source, available within text of the writing is called -",
+      "options": [
+        {
+          "text": "Hypertext referencing"
+        },
+        {
+          "text": "Parenthetical Referencing",
+          "correct": true
+        },
+        {
+          "text": "In-text Referencing"
+          
+        },
+        {
+          "text": "Paragraph Referencing"
+        }
+      ]
+    },
+    {
+      "questionText": "15. Chicago Style is used for citation of referencing in how many subjects as per 16th Edition, 2010 manual.",
+      "options": [
+        {
+          "text": "189"
+        },
+        {
+          "text": "190",
+          "correct": true
+        },
+        {
+          "text": "191"
+          
+        },
+        {
+          "text": "192"
+        }
+      ]
+    },
+    {
+      "questionText": "16. MLA stands for -",
+      "options": [
+        {
+          "text": "Modern Language Association",
+          "correct": true
+        },
+        {
+          "text": "Modern Linguistic Association"
+          
+        },
+        {
+          "text": "Modern Logical Association"
+          
+        },
+        {
+          "text": "Modern Law Association"
+        }
+      ]
+    },
+    {
+      "questionText": "17. Which citation manual(s) is/are useful for citation of legal material?",
+      "options": [
+        {
+          "text": "ALWD"
+
+        },
+        {
+          "text": "Blue Book"
+          
+        },
+        {
+          "text": "OSCOLA"
+          
+        },
+        {
+          "text": "All of Above",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "18. Blue Book of Legal Citation has been developed by -",
+      "options": [
+        {
+          "text": "Editors, Columbia Law Review"
+
+        },
+        {
+          "text": "Editors, Michigan Law Review"
+          
+        },
+        {
+          "text": "Editors, Iowa Law Review"
+          
+        },
+        {
+          "text": "Editors, Harvard Law Review",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "19. Two types of reference noting systems used in Citation styles are -",
+      "options": [
+        {
+          "text": "Footnote and Endnote",
+          "correct": true
+
+        },
+        {
+          "text": "Under note and back note"
+          
+        },
+        {
+          "text": "Indent note and last note"
+          
+        },
+        {
+          "text": "Reference note and bibliographical note"
+          
+        }
+      ]
+    },
+    {
+      "questionText": "20. 'International Standard Serial Number (ISSN)' system was drafted by which organization in 1971.",
+      "options": [
+        {
+          "text": "International Organization for Standardization",
+          "correct": true
+
+        },
+        {
+          "text": "International Organization for Serialization"
+          
+        },
+        {
+          "text": "International Organization for Standards"
+          
+        },
+        {
+          "text": "International Organization for Patents"
+          
+        }
+      ]
+    }
+
+
+]}

@@ -1,0 +1,391 @@
+{
+  "questions": [
+    {
+      "questionText": "1.Select the correct code which indicates the basic elements which leads the entire process of research.",
+      "options": [
+        {
+          "text": "Object, purpose and method Object,",
+          "correct": true
+          
+        },
+        {
+          "text": "method and population Population,"
+        },
+        {
+          "text": "Sample and hypothesis"
+        },
+        {
+          "text": "Hypothesis, sample and method"
+        }
+      ]
+    },
+    {
+      "questionText": "2.Research process intended to find out ultimate beneficiary of law is –",
+      "options": [
+        {
+          "text": "Explicative"
+        },
+        {
+          "text": "Collative"
+        },
+        {
+          "text": "Evolutive"
+        },
+        {
+          "text": "Identificatory",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "3.What is the aim of the Collative Model?",
+      "options": [
+        {
+          "text": "To find out the attitude, responsiveness and reactivity of society"
+        },
+        {
+          "text": "To compare two or more laws and to rule out the batter and relevant one",
+          "correct": true
+          
+        },
+        {
+          "text": "To find out the ultimate beneficiary of any law"
+        },
+        {
+          "text": "To ascertain the nature, scope and sources of law"
+        }
+      ]
+    },
+    {
+      "questionText": "4.Interactive legal research focuses to –",
+      "options": [
+        {
+          "text": "Find out the factors showing an Interaction of researcher with the research"
+        },
+        {
+          "text": "Study the interaction between relevant and irrelevant variables"
+          
+        },
+        {
+          "text": "Find out the facts evidencing interaction of social factors with the law",
+          "correct": true
+        },
+        {
+          "text": "All the above"
+        }
+      ]
+    },
+    {
+      "questionText": "5.The research follows to study the impact of legal principle, rule or institution on society on the society is called as:",
+      "options": [
+        {
+          "text": "Social Study"
+        },
+        {
+          "text": "Evolutive Study"
+        },
+        {
+          "text": "Impact Analysis",
+          "correct": true
+        },
+        {
+          "text": "Experimental Study"
+        }
+      ]
+    },
+    {
+      "questionText": "6.An ontological claim means that:",
+      "options": [
+        {
+          "text": "There is a reality, existing independently  of the human min",
+          "correct": true
+        },
+        {
+          "text": "That reality may be known by the human min"
+         
+        },
+        {
+          "text": "To check the truth in changing social demands."
+        },
+        {
+          "text": "To find out  the lacuna in existing social norms."
+        }
+      ]
+    },
+    {
+      "questionText": "7.Every research action has a quest of knowledge which is known as –  ",
+      "options": [
+        {
+          "text": "Purpose of research"
+        },
+        {
+          "text": "Object of research",
+          "correct": true
+        },
+        {
+          "text": " Result of research"
+        },
+        {
+          "text": " None of the above"
+        }
+      ]
+    },
+    {
+      "questionText": "8.What is necessary  to get accurate, true and reliable outcomes of any research?",
+      "options": [
+        {
+          "text": "Reliable method"
+        },
+        {
+          "text": "Proper order of steps"
+        },
+        {
+          "text": "Reasonable  procedure"
+        },
+        {
+          "text": "All the above",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "9.The research which demonstrates the cause and effect relationship between the variables by manipulating them is called – ",
+      "options": [
+        {
+          "text": " Experimental Research",
+          "correct": true
+        },
+        {
+          "text": "Variable Research"
+        },
+        {
+          "text": " Empirical Research"
+        },
+        {
+          "text": " Doctrinal Research"
+        }
+        
+      ]
+    },
+    {
+      "questionText": "10.The research is –",
+      "options": [
+        {
+          "text": "A voyage from known facts to unknown facts"
+        },
+        {
+          "text": "Based on demonstrable facts"
+        },
+        {
+          "text": " To conclude the truth"
+        },
+        {
+          "text": "All the above",
+          "correct": true
+        }
+        
+      ]
+    },
+    {
+      "questionText": "11.The objective of legal research is to:",
+      "options": [
+        {
+          "text": "Finding out the objectives of existing law and customs."
+        },
+        {
+          "text": "To check their utility in changing social demands."
+        },
+        {
+          "text": "To find out lacuna, if any,  and to take steps to overcome it."
+        },
+        {
+          "text": "All the above",
+          "correct": true
+        }
+        
+      ]
+    },
+    {
+      "questionText": "12.Select the correct order of data processing.",
+      "options": [
+        {
+          "text": " Collection of Data – Interpretation of Data –  Analysis of Dat"
+        },
+        {
+          "text": "Collection of Data – Analysis of Data – Interpretation of Dat",
+          "correct": true
+        },
+        {
+          "text": "Analysis of Data – Interpretation of Data – Collection of Dat"
+        },
+        {
+          "text": " Analysis of Data – Collection of Data– Interpretation of Dat"
+          
+        }
+        
+      ]
+    },
+    {
+      "questionText": "13. Objectivism’ means –",
+      "options": [
+        {
+          "text": "A conscientious judgment without internal or external biasness"
+        },
+        {
+          "text": "Independent from personal perception"
+          
+        },
+        {
+          "text": "Both a & b",
+          "correct": true
+        },
+        {
+          "text": "None of the above"
+          
+        }
+        
+      ]
+    },
+    {
+      "questionText": "14. In every research, the researcher claims following things in his objects –",
+      "options": [
+        {
+          "text": "Ontological claim"
+        },
+        {
+          "text": "Epistemological claim"
+          
+        },
+        {
+          "text": "Semantic claim"
+          
+        },
+        {
+          "text": "All the above",
+          "correct": true
+          
+        }
+        
+      ]
+    },
+    {
+      "questionText": "15. Incomplete, mislead or inconsistent  knowledge can be satisfied by-",
+      "options": [
+        {
+          "text": "Diagnostic research"
+        },
+        {
+          "text": "Comparative research"
+          
+        },
+        {
+          "text": "Remedial research"
+          
+        },
+        {
+          "text": "Explanatory research",
+          "correct": true
+        }
+        
+      ]
+    },
+    {
+      "questionText": "16. Research towards finding causes or variables responsible for the origin, existence and subsistence of problem which is known as a -",
+      "options": [
+        {
+          "text": "Explanatory research"
+        },
+        {
+          "text": "Diagnostic research",
+          "correct": true
+        },
+        {
+          "text": "Comparative research"
+          
+        },
+        {
+          "text": "Remedial research"
+        }
+        
+      ]
+    },
+    {
+      "questionText": "17. A Remedial Research aims to find out the -",
+      "options": [
+        {
+          "text": "Causes of problem"
+        },
+        {
+          "text": "Effects of Problem"
+        },
+        {
+          "text": "Remedies for eradication and control of problem",
+          "correct": true
+        },
+        {
+          "text": "All the above"
+        }
+        
+      ]
+    },
+    {
+      "questionText": "18. A  research which  is used as a key to unlock present questions and to guide future actions by a systematic and chronological study of past events is known as -",
+      "options": [
+        {
+          "text": "Historical Research",
+          "correct": true
+        },
+        {
+          "text": "Experimental Research"  
+        },
+        {
+          "text": "Diagnostic Research"
+        },
+        {
+          "text": "Explanatory Research"
+        }
+        
+      ]
+    },
+    {
+      "questionText": "19. Who propounded the Evolutionary theory ?",
+      "options": [
+        {
+          "text": "Anson"
+          
+        },
+        {
+          "text": "Kelson"
+        },
+        {
+          "text": "Darwin",
+          "correct": true
+        },
+        {
+          "text": "Watson"
+        }
+        
+      ]
+    },
+    {
+      "questionText": "20. The research aims to ascertain the nature, scope and sources of law is called as:",
+      "options": [
+        {
+          "text": "Explicative",
+          "correct": true
+        },
+        {
+          "text": "Collative"
+        },
+        {
+          "text": "Evolutive"
+          
+        },
+        {
+          "text": "Identificatory"
+        }
+        
+      ]
+    }
+  ]
+}

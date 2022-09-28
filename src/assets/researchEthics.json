@@ -1,0 +1,276 @@
+{
+    "questions": [
+      {
+        "questionText": "1. Every researcher views all societal problems in the same picture. Is this statement true or false?",
+        "options": [
+          {
+            "text": "True"
+             
+          },
+          {
+            "text": "False",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "2. The two important components of research responsibility are: sincerity in work and avoiding ________________.",
+        "options": [
+          {
+            "text": "Plagiarism",
+            "correct": true
+          },
+          {
+            "text": "Writing the thesis"
+          },
+          {
+            "text": "Research techniques"
+          },
+          {
+            "text": "d. Confidentiality"
+            
+          }
+        ]
+      },
+      {
+        "questionText": "3. Which of the following options most appropriately explains 'Research Ethics'?",
+        "options": [
+          {
+            "text": "It states how to write a research report flawlessly."
+          },
+          {
+            "text": "It gives the methodology of researching within social norms"
+            
+            
+          },
+          {
+            "text": "It governs the prevention of plagiarism"
+          },
+          {
+            "text": "It provides a common set of dos and don'ts of conducting an ethical research",
+            "correct": true
+            
+          }
+        ]
+      },
+      {
+        "questionText": "Which of the following factors make the compliance of research ethics difficult?",
+        "options": [
+          {
+            "text": "Societal norms"
+          },
+          {
+            "text": "Respect for confidentiality"
+            
+          },
+          {
+            "text": "Lack of Checks",
+            "correct": true
+            
+          },
+          {
+            "text": "Self-check"
+            
+          }
+        ]
+      },
+      {
+        "questionText": "5. Which among the following is not a kind of plagiarism?",
+        "options": [
+          {
+            "text": "Patch Writing"
+            
+          },
+          {
+            "text": "Untainted Plagiarism",
+            "correct": true
+          },
+          {
+            "text": "Indirect Plagiarism"
+            
+          },
+          {
+            "text": "Direct Plagiarism"
+          }
+        ]
+      },
+      {
+        "questionText": "6. Plagiarism is against the principles of morality, but no legal action can be taken against the plagiariser.",
+        "options": [
+          {
+            "text": "True"
+          },
+          {
+            
+            "text": "False",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "7. Research emerges from the societal problems and the observation of a researcher.",
+        "options": [
+          {
+            "text": "True",
+            "correct": true
+          },
+          {
+            "text": "False"
+          }
+        ]
+      },
+      {
+        "questionText": "8. In the capacity of a researcher, how can you solve the problems that exist in the society?",
+        "options": [
+          {
+            "text": "Eradicate unethical people from the society."
+            
+          },
+          {
+            "text": "Request the research institute to form a body of members for solving the problems."
+            
+          },
+          {
+            "text": "Participate in the activities of a suitable NGO to help in fighting the problems."
+          },
+          {
+            "text": "None of the above",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "questionText": "9. The interplay of imagination and innovation on a researcher’s part creates a unique research report.",
+        "options": [
+          {
+            "text": "True",
+            "correct": true
+          },
+          {
+            "text": "False"
+          }
+          
+        ]
+      },
+      {
+        "questionText": "10. Ethics in research lays the bounds of discipline for a researcher.",
+        "options": [
+          {
+            "text": "True",
+            "correct": true
+
+          },
+          {
+            "text": "False"
+          }
+          
+        ]
+      },
+      {
+        "questionText": "11. Standard research ethics changes from person to person.",
+        "options": [
+          {
+            "text": "True"
+          },
+          {
+            "text": "False",
+            "correct": true
+          }
+          
+        ]
+      },
+      {
+        "questionText": "12. Following standard research ethics is the sole responsibility of the Institute.",
+        "options": [
+          {
+            "text": "True"
+          },
+          {
+            "text": "False",
+            "correct": true
+          }
+          
+        ]
+      },
+      {
+        "questionText": "13. Where a researcher publishes previously published material by himself, it is not plagiarism.",
+        "options": [
+          {
+            "text": "True"
+          },
+          {
+            "text": "False",
+            "correct": true
+          }
+          
+        ]
+      },
+      {
+        "questionText": "14. The final aim of every research is a",
+        "options": [
+          {
+            "text": "Ethical research "
+          },
+          {
+            "text": "Research report",
+            "correct": true
+          },
+          {
+            "text": "Sponsorship"
+          
+          },
+          {
+            "text": "Future research"
+            
+          }
+          
+        ]
+      },
+      {
+        "questionText": "15. Before beginning research, the researcher must obtain authorization to research from the participantsto be researched and the...",
+        "options": [
+          {
+            "text": "Researcher’s parents"
+          },
+          {
+            "text": "Research library"
+            
+          },
+          {
+            "text": "Research Institute",
+            "correct": true
+          
+          },
+          {
+            "text": "Sponsors"
+            
+          }
+          
+        ]
+      },
+      {
+        "questionText": "16. Copying the work of other authors in whole pieces is called as",
+        "options": [
+          {
+            "text": "Self-plagiarism"
+          },
+          {
+            "text": "Indirect plagiarism"
+            
+          },
+          {
+            "text": "Direct plagiarism"
+            
+          
+          },
+          {
+            "text": "Patch writing",
+            "correct": true
+            
+          }
+          
+        ]
+      }
+      
+    ]
+  }
